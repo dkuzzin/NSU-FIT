@@ -1,0 +1,330 @@
+мар. 02, 2026 1:55:25 PM ru.nsu.fit.dkuzin.lab2.Main main
+INFO: ===================Application started===================
+
+мар. 02, 2026 1:55:25 PM ru.nsu.fit.dkuzin.lab2.Main main
+FINE: Got the filename file.txt
+мар. 02, 2026 1:55:25 PM ru.nsu.fit.dkuzin.lab2.factory.CommandFactory loadConfig
+INFO: Loading commands configuration
+мар. 02, 2026 1:55:25 PM ru.nsu.fit.dkuzin.lab2.factory.CommandFactory loadConfig
+INFO: Configuration loaded successfully
+мар. 02, 2026 1:55:25 PM ru.nsu.fit.dkuzin.lab2.core.Calculator <init>
+INFO: The calculator was successfully initialized.
+мар. 02, 2026 1:55:25 PM ru.nsu.fit.dkuzin.lab2.core.Calculator run
+INFO: Calculator started processing
+мар. 02, 2026 1:55:25 PM ru.nsu.fit.dkuzin.lab2.core.Calculator run
+FINE: Processing line #1
+мар. 02, 2026 1:55:25 PM ru.nsu.fit.dkuzin.lab2.factory.CommandFactory createCommand
+FINE: Making command PUSH
+мар. 02, 2026 1:55:25 PM ru.nsu.fit.dkuzin.lab2.core.Calculator processLine
+FINE: Successful to create. Executing command PUSH
+мар. 02, 2026 1:55:25 PM ru.nsu.fit.dkuzin.lab2.core.Calculator processLine
+FINE: DONE
+мар. 02, 2026 1:55:25 PM ru.nsu.fit.dkuzin.lab2.core.Calculator run
+FINE: Processing line #2
+мар. 02, 2026 1:55:25 PM ru.nsu.fit.dkuzin.lab2.factory.CommandFactory createCommand
+FINE: Making command PUSH
+мар. 02, 2026 1:55:25 PM ru.nsu.fit.dkuzin.lab2.core.Calculator processLine
+FINE: Successful to create. Executing command PUSH
+мар. 02, 2026 1:55:25 PM ru.nsu.fit.dkuzin.lab2.core.Calculator processLine
+FINE: DONE
+мар. 02, 2026 1:55:25 PM ru.nsu.fit.dkuzin.lab2.core.Calculator run
+FINE: Processing line #3
+мар. 02, 2026 1:55:25 PM ru.nsu.fit.dkuzin.lab2.factory.CommandFactory createCommand
+FINE: Making command +
+мар. 02, 2026 1:55:25 PM ru.nsu.fit.dkuzin.lab2.core.Calculator processLine
+FINE: Successful to create. Executing command +
+мар. 02, 2026 1:55:25 PM ru.nsu.fit.dkuzin.lab2.core.Calculator processLine
+FINE: DONE
+мар. 02, 2026 1:55:25 PM ru.nsu.fit.dkuzin.lab2.core.Calculator run
+FINE: Processing line #4
+мар. 02, 2026 1:55:25 PM ru.nsu.fit.dkuzin.lab2.factory.CommandFactory createCommand
+FINE: Making command PRINT
+мар. 02, 2026 1:55:25 PM ru.nsu.fit.dkuzin.lab2.core.Calculator processLine
+FINE: Successful to create. Executing command PRINT
+мар. 02, 2026 1:55:25 PM ru.nsu.fit.dkuzin.lab2.core.Calculator processLine
+FINE: DONE
+мар. 02, 2026 1:55:25 PM ru.nsu.fit.dkuzin.lab2.core.Calculator run
+FINE: Processing line #5
+мар. 02, 2026 1:55:25 PM ru.nsu.fit.dkuzin.lab2.core.Calculator processLine
+FINE: DONE
+мар. 02, 2026 1:55:25 PM ru.nsu.fit.dkuzin.lab2.core.Calculator run
+FINE: Processing line #6
+мар. 02, 2026 1:55:25 PM ru.nsu.fit.dkuzin.lab2.factory.CommandFactory createCommand
+FINE: Making command PUSH
+мар. 02, 2026 1:55:25 PM ru.nsu.fit.dkuzin.lab2.core.Calculator processLine
+FINE: Successful to create. Executing command PUSH
+мар. 02, 2026 1:55:25 PM ru.nsu.fit.dkuzin.lab2.core.Calculator processLine
+FINE: DONE
+мар. 02, 2026 1:55:25 PM ru.nsu.fit.dkuzin.lab2.core.Calculator run
+FINE: Processing line #7
+мар. 02, 2026 1:55:25 PM ru.nsu.fit.dkuzin.lab2.factory.CommandFactory createCommand
+FINE: Making command PUSH
+мар. 02, 2026 1:55:25 PM ru.nsu.fit.dkuzin.lab2.core.Calculator processLine
+FINE: Successful to create. Executing command PUSH
+мар. 02, 2026 1:55:25 PM ru.nsu.fit.dkuzin.lab2.core.Calculator processLine
+FINE: DONE
+мар. 02, 2026 1:55:25 PM ru.nsu.fit.dkuzin.lab2.core.Calculator run
+FINE: Processing line #8
+мар. 02, 2026 1:55:25 PM ru.nsu.fit.dkuzin.lab2.factory.CommandFactory createCommand
+FINE: Making command -
+мар. 02, 2026 1:55:25 PM ru.nsu.fit.dkuzin.lab2.core.Calculator processLine
+FINE: Successful to create. Executing command -
+мар. 02, 2026 1:55:25 PM ru.nsu.fit.dkuzin.lab2.core.Calculator processLine
+FINE: DONE
+мар. 02, 2026 1:55:25 PM ru.nsu.fit.dkuzin.lab2.core.Calculator run
+FINE: Processing line #9
+мар. 02, 2026 1:55:25 PM ru.nsu.fit.dkuzin.lab2.factory.CommandFactory createCommand
+FINE: Making command PRINT
+мар. 02, 2026 1:55:25 PM ru.nsu.fit.dkuzin.lab2.core.Calculator processLine
+FINE: Successful to create. Executing command PRINT
+мар. 02, 2026 1:55:25 PM ru.nsu.fit.dkuzin.lab2.core.Calculator processLine
+FINE: DONE
+мар. 02, 2026 1:55:25 PM ru.nsu.fit.dkuzin.lab2.core.Calculator run
+FINE: Processing line #10
+мар. 02, 2026 1:55:25 PM ru.nsu.fit.dkuzin.lab2.core.Calculator processLine
+FINE: DONE
+мар. 02, 2026 1:55:25 PM ru.nsu.fit.dkuzin.lab2.core.Calculator run
+FINE: Processing line #11
+мар. 02, 2026 1:55:25 PM ru.nsu.fit.dkuzin.lab2.factory.CommandFactory createCommand
+FINE: Making command PUSH
+мар. 02, 2026 1:55:25 PM ru.nsu.fit.dkuzin.lab2.core.Calculator processLine
+FINE: Successful to create. Executing command PUSH
+мар. 02, 2026 1:55:25 PM ru.nsu.fit.dkuzin.lab2.core.Calculator processLine
+FINE: DONE
+мар. 02, 2026 1:55:25 PM ru.nsu.fit.dkuzin.lab2.core.Calculator run
+FINE: Processing line #12
+мар. 02, 2026 1:55:25 PM ru.nsu.fit.dkuzin.lab2.factory.CommandFactory createCommand
+FINE: Making command PUSH
+мар. 02, 2026 1:55:25 PM ru.nsu.fit.dkuzin.lab2.core.Calculator processLine
+FINE: Successful to create. Executing command PUSH
+мар. 02, 2026 1:55:25 PM ru.nsu.fit.dkuzin.lab2.core.Calculator processLine
+FINE: DONE
+мар. 02, 2026 1:55:25 PM ru.nsu.fit.dkuzin.lab2.core.Calculator run
+FINE: Processing line #13
+мар. 02, 2026 1:55:25 PM ru.nsu.fit.dkuzin.lab2.factory.CommandFactory createCommand
+FINE: Making command *
+мар. 02, 2026 1:55:25 PM ru.nsu.fit.dkuzin.lab2.core.Calculator processLine
+FINE: Successful to create. Executing command *
+мар. 02, 2026 1:55:25 PM ru.nsu.fit.dkuzin.lab2.core.Calculator processLine
+FINE: DONE
+мар. 02, 2026 1:55:25 PM ru.nsu.fit.dkuzin.lab2.core.Calculator run
+FINE: Processing line #14
+мар. 02, 2026 1:55:25 PM ru.nsu.fit.dkuzin.lab2.factory.CommandFactory createCommand
+FINE: Making command PRINT
+мар. 02, 2026 1:55:25 PM ru.nsu.fit.dkuzin.lab2.core.Calculator processLine
+FINE: Successful to create. Executing command PRINT
+мар. 02, 2026 1:55:25 PM ru.nsu.fit.dkuzin.lab2.core.Calculator processLine
+FINE: DONE
+мар. 02, 2026 1:55:25 PM ru.nsu.fit.dkuzin.lab2.core.Calculator run
+FINE: Processing line #15
+мар. 02, 2026 1:55:25 PM ru.nsu.fit.dkuzin.lab2.core.Calculator processLine
+FINE: DONE
+мар. 02, 2026 1:55:25 PM ru.nsu.fit.dkuzin.lab2.core.Calculator run
+FINE: Processing line #16
+мар. 02, 2026 1:55:25 PM ru.nsu.fit.dkuzin.lab2.factory.CommandFactory createCommand
+FINE: Making command PUSH
+мар. 02, 2026 1:55:25 PM ru.nsu.fit.dkuzin.lab2.core.Calculator processLine
+FINE: Successful to create. Executing command PUSH
+мар. 02, 2026 1:55:25 PM ru.nsu.fit.dkuzin.lab2.core.Calculator processLine
+FINE: DONE
+мар. 02, 2026 1:55:25 PM ru.nsu.fit.dkuzin.lab2.core.Calculator run
+FINE: Processing line #17
+мар. 02, 2026 1:55:25 PM ru.nsu.fit.dkuzin.lab2.factory.CommandFactory createCommand
+FINE: Making command PUSH
+мар. 02, 2026 1:55:25 PM ru.nsu.fit.dkuzin.lab2.core.Calculator processLine
+FINE: Successful to create. Executing command PUSH
+мар. 02, 2026 1:55:25 PM ru.nsu.fit.dkuzin.lab2.core.Calculator processLine
+FINE: DONE
+мар. 02, 2026 1:55:25 PM ru.nsu.fit.dkuzin.lab2.core.Calculator run
+FINE: Processing line #18
+мар. 02, 2026 1:55:25 PM ru.nsu.fit.dkuzin.lab2.factory.CommandFactory createCommand
+FINE: Making command /
+мар. 02, 2026 1:55:25 PM ru.nsu.fit.dkuzin.lab2.core.Calculator processLine
+FINE: Successful to create. Executing command /
+мар. 02, 2026 1:55:25 PM ru.nsu.fit.dkuzin.lab2.core.Calculator processLine
+FINE: DONE
+мар. 02, 2026 1:55:25 PM ru.nsu.fit.dkuzin.lab2.core.Calculator run
+FINE: Processing line #19
+мар. 02, 2026 1:55:25 PM ru.nsu.fit.dkuzin.lab2.factory.CommandFactory createCommand
+FINE: Making command PRINT
+мар. 02, 2026 1:55:25 PM ru.nsu.fit.dkuzin.lab2.core.Calculator processLine
+FINE: Successful to create. Executing command PRINT
+мар. 02, 2026 1:55:25 PM ru.nsu.fit.dkuzin.lab2.core.Calculator processLine
+FINE: DONE
+мар. 02, 2026 1:55:25 PM ru.nsu.fit.dkuzin.lab2.core.Calculator run
+FINE: Processing line #20
+мар. 02, 2026 1:55:25 PM ru.nsu.fit.dkuzin.lab2.core.Calculator processLine
+FINE: DONE
+мар. 02, 2026 1:55:25 PM ru.nsu.fit.dkuzin.lab2.core.Calculator run
+FINE: Processing line #21
+мар. 02, 2026 1:55:25 PM ru.nsu.fit.dkuzin.lab2.core.Calculator processLine
+FINE: The line contains comment
+мар. 02, 2026 1:55:25 PM ru.nsu.fit.dkuzin.lab2.core.Calculator processLine
+FINE: DONE
+мар. 02, 2026 1:55:25 PM ru.nsu.fit.dkuzin.lab2.core.Calculator run
+FINE: Processing line #22
+мар. 02, 2026 1:55:25 PM ru.nsu.fit.dkuzin.lab2.core.Calculator processLine
+FINE: The line contains comment
+мар. 02, 2026 1:55:25 PM ru.nsu.fit.dkuzin.lab2.core.Calculator processLine
+FINE: DONE
+мар. 02, 2026 1:55:25 PM ru.nsu.fit.dkuzin.lab2.core.Calculator run
+FINE: Processing line #23
+мар. 02, 2026 1:55:25 PM ru.nsu.fit.dkuzin.lab2.core.Calculator processLine
+FINE: The line contains comment
+мар. 02, 2026 1:55:25 PM ru.nsu.fit.dkuzin.lab2.core.Calculator processLine
+FINE: DONE
+мар. 02, 2026 1:55:25 PM ru.nsu.fit.dkuzin.lab2.core.Calculator run
+FINE: Processing line #24
+мар. 02, 2026 1:55:25 PM ru.nsu.fit.dkuzin.lab2.core.Calculator processLine
+FINE: The line contains comment
+мар. 02, 2026 1:55:25 PM ru.nsu.fit.dkuzin.lab2.core.Calculator processLine
+FINE: DONE
+мар. 02, 2026 1:55:25 PM ru.nsu.fit.dkuzin.lab2.core.Calculator run
+INFO: Calculator finished processing
+мар. 02, 2026 1:55:25 PM ru.nsu.fit.dkuzin.lab2.Main main
+INFO: ============== Application was finished ==============
+
+
+
+
+мар. 02, 2026 1:55:58 PM ru.nsu.fit.dkuzin.lab2.Main main
+INFO: ===================Application started===================
+
+мар. 02, 2026 1:55:58 PM ru.nsu.fit.dkuzin.lab2.Main main
+FINE: Didn't get the filename, using System.in
+мар. 02, 2026 1:55:58 PM ru.nsu.fit.dkuzin.lab2.factory.CommandFactory loadConfig
+INFO: Loading commands configuration
+мар. 02, 2026 1:55:58 PM ru.nsu.fit.dkuzin.lab2.factory.CommandFactory loadConfig
+INFO: Configuration loaded successfully
+мар. 02, 2026 1:55:58 PM ru.nsu.fit.dkuzin.lab2.core.Calculator <init>
+INFO: The calculator was successfully initialized.
+мар. 02, 2026 1:55:58 PM ru.nsu.fit.dkuzin.lab2.core.Calculator run
+INFO: Calculator started processing
+мар. 02, 2026 1:56:06 PM ru.nsu.fit.dkuzin.lab2.core.Calculator run
+FINE: Processing line #1
+мар. 02, 2026 1:56:06 PM ru.nsu.fit.dkuzin.lab2.factory.CommandFactory createCommand
+FINE: Making command PUSH
+мар. 02, 2026 1:56:06 PM ru.nsu.fit.dkuzin.lab2.core.Calculator processLine
+FINE: Successful to create. Executing command PUSH
+мар. 02, 2026 1:56:06 PM ru.nsu.fit.dkuzin.lab2.core.Calculator processLine
+FINE: DONE
+мар. 02, 2026 1:56:09 PM ru.nsu.fit.dkuzin.lab2.core.Calculator run
+FINE: Processing line #2
+мар. 02, 2026 1:56:09 PM ru.nsu.fit.dkuzin.lab2.factory.CommandFactory createCommand
+FINE: Making command PUSH
+мар. 02, 2026 1:56:09 PM ru.nsu.fit.dkuzin.lab2.core.Calculator processLine
+FINE: Successful to create. Executing command PUSH
+мар. 02, 2026 1:56:09 PM ru.nsu.fit.dkuzin.lab2.core.Calculator processLine
+FINE: DONE
+мар. 02, 2026 1:56:11 PM ru.nsu.fit.dkuzin.lab2.core.Calculator run
+FINE: Processing line #3
+мар. 02, 2026 1:56:11 PM ru.nsu.fit.dkuzin.lab2.factory.CommandFactory createCommand
+FINE: Making command /
+мар. 02, 2026 1:56:11 PM ru.nsu.fit.dkuzin.lab2.core.Calculator processLine
+FINE: Successful to create. Executing command /
+мар. 02, 2026 1:56:11 PM ru.nsu.fit.dkuzin.lab2.core.Calculator run
+WARNING: Command ERROR. line #3 : 
+ru.nsu.fit.dkuzin.lab2.exceptions.CommandException: You can't divide by zero
+	at ru.nsu.fit.dkuzin.lab2.commands.DivCommand.execute(DivCommand.java:21)
+	at ru.nsu.fit.dkuzin.lab2.core.Calculator.processLine(Calculator.java:43)
+	at ru.nsu.fit.dkuzin.lab2.core.Calculator.run(Calculator.java:55)
+	at ru.nsu.fit.dkuzin.lab2.Main.runCalc(Main.java:36)
+	at ru.nsu.fit.dkuzin.lab2.Main.main(Main.java:65)
+
+мар. 02, 2026 1:56:22 PM ru.nsu.fit.dkuzin.lab2.core.Calculator run
+FINE: Processing line #4
+мар. 02, 2026 1:56:22 PM ru.nsu.fit.dkuzin.lab2.factory.CommandFactory createCommand
+FINE: Making command PUSH
+мар. 02, 2026 1:56:22 PM ru.nsu.fit.dkuzin.lab2.core.Calculator processLine
+FINE: Successful to create. Executing command PUSH
+мар. 02, 2026 1:56:22 PM ru.nsu.fit.dkuzin.lab2.core.Calculator processLine
+FINE: DONE
+мар. 02, 2026 1:56:27 PM ru.nsu.fit.dkuzin.lab2.core.Calculator run
+FINE: Processing line #5
+мар. 02, 2026 1:56:27 PM ru.nsu.fit.dkuzin.lab2.factory.CommandFactory createCommand
+FINE: Making command *
+мар. 02, 2026 1:56:27 PM ru.nsu.fit.dkuzin.lab2.core.Calculator processLine
+FINE: Successful to create. Executing command *
+мар. 02, 2026 1:56:27 PM ru.nsu.fit.dkuzin.lab2.core.Calculator processLine
+FINE: DONE
+мар. 02, 2026 1:56:29 PM ru.nsu.fit.dkuzin.lab2.core.Calculator run
+FINE: Processing line #6
+мар. 02, 2026 1:56:29 PM ru.nsu.fit.dkuzin.lab2.factory.CommandFactory createCommand
+FINE: Making command PRINT
+мар. 02, 2026 1:56:29 PM ru.nsu.fit.dkuzin.lab2.core.Calculator processLine
+FINE: Successful to create. Executing command PRINT
+мар. 02, 2026 1:56:29 PM ru.nsu.fit.dkuzin.lab2.core.Calculator processLine
+FINE: DONE
+мар. 02, 2026 1:56:35 PM ru.nsu.fit.dkuzin.lab2.core.Calculator run
+FINE: Processing line #7
+мар. 02, 2026 1:56:35 PM ru.nsu.fit.dkuzin.lab2.factory.CommandFactory createCommand
+FINE: Making command *
+мар. 02, 2026 1:56:35 PM ru.nsu.fit.dkuzin.lab2.core.Calculator processLine
+FINE: Successful to create. Executing command *
+мар. 02, 2026 1:56:35 PM ru.nsu.fit.dkuzin.lab2.core.Calculator processLine
+FINE: DONE
+мар. 02, 2026 1:56:38 PM ru.nsu.fit.dkuzin.lab2.core.Calculator run
+FINE: Processing line #8
+мар. 02, 2026 1:56:38 PM ru.nsu.fit.dkuzin.lab2.factory.CommandFactory createCommand
+FINE: Making command PRINT
+мар. 02, 2026 1:56:38 PM ru.nsu.fit.dkuzin.lab2.core.Calculator processLine
+FINE: Successful to create. Executing command PRINT
+мар. 02, 2026 1:56:38 PM ru.nsu.fit.dkuzin.lab2.core.Calculator processLine
+FINE: DONE
+мар. 02, 2026 1:56:44 PM ru.nsu.fit.dkuzin.lab2.core.Calculator run
+FINE: Processing line #9
+мар. 02, 2026 1:56:44 PM ru.nsu.fit.dkuzin.lab2.factory.CommandFactory createCommand
+FINE: Making command PUSH
+мар. 02, 2026 1:56:44 PM ru.nsu.fit.dkuzin.lab2.core.Calculator processLine
+FINE: Successful to create. Executing command PUSH
+мар. 02, 2026 1:56:44 PM ru.nsu.fit.dkuzin.lab2.core.Calculator processLine
+FINE: DONE
+мар. 02, 2026 1:56:45 PM ru.nsu.fit.dkuzin.lab2.core.Calculator run
+FINE: Processing line #10
+мар. 02, 2026 1:56:45 PM ru.nsu.fit.dkuzin.lab2.factory.CommandFactory createCommand
+FINE: Making command +
+мар. 02, 2026 1:56:45 PM ru.nsu.fit.dkuzin.lab2.core.Calculator processLine
+FINE: Successful to create. Executing command +
+мар. 02, 2026 1:56:45 PM ru.nsu.fit.dkuzin.lab2.core.Calculator processLine
+FINE: DONE
+мар. 02, 2026 1:56:48 PM ru.nsu.fit.dkuzin.lab2.core.Calculator run
+FINE: Processing line #11
+мар. 02, 2026 1:56:48 PM ru.nsu.fit.dkuzin.lab2.factory.CommandFactory createCommand
+FINE: Making command PRINT
+мар. 02, 2026 1:56:48 PM ru.nsu.fit.dkuzin.lab2.core.Calculator processLine
+FINE: Successful to create. Executing command PRINT
+мар. 02, 2026 1:56:48 PM ru.nsu.fit.dkuzin.lab2.core.Calculator processLine
+FINE: DONE
+мар. 02, 2026 1:56:58 PM ru.nsu.fit.dkuzin.lab2.core.Calculator run
+FINE: Processing line #12
+мар. 02, 2026 1:56:58 PM ru.nsu.fit.dkuzin.lab2.factory.CommandFactory createCommand
+FINE: Making command PUSH
+мар. 02, 2026 1:56:58 PM ru.nsu.fit.dkuzin.lab2.core.Calculator processLine
+FINE: Successful to create. Executing command PUSH
+мар. 02, 2026 1:56:58 PM ru.nsu.fit.dkuzin.lab2.core.Calculator processLine
+FINE: DONE
+мар. 02, 2026 1:57:03 PM ru.nsu.fit.dkuzin.lab2.core.Calculator run
+FINE: Processing line #13
+мар. 02, 2026 1:57:03 PM ru.nsu.fit.dkuzin.lab2.factory.CommandFactory createCommand
+FINE: Making command *
+мар. 02, 2026 1:57:03 PM ru.nsu.fit.dkuzin.lab2.core.Calculator processLine
+FINE: Successful to create. Executing command *
+мар. 02, 2026 1:57:03 PM ru.nsu.fit.dkuzin.lab2.core.Calculator processLine
+FINE: DONE
+мар. 02, 2026 1:57:05 PM ru.nsu.fit.dkuzin.lab2.core.Calculator run
+FINE: Processing line #14
+мар. 02, 2026 1:57:05 PM ru.nsu.fit.dkuzin.lab2.factory.CommandFactory createCommand
+FINE: Making command PRINT
+мар. 02, 2026 1:57:05 PM ru.nsu.fit.dkuzin.lab2.core.Calculator processLine
+FINE: Successful to create. Executing command PRINT
+мар. 02, 2026 1:57:05 PM ru.nsu.fit.dkuzin.lab2.core.Calculator processLine
+FINE: DONE
+мар. 02, 2026 1:58:47 PM java.lang.Shutdown logRuntimeExit
+FINE: Runtime.exit() called with status: 130
+java.lang.Throwable: Runtime.exit(130)
+	at java.base/java.lang.Shutdown.logRuntimeExit(Shutdown.java:179)
+	at java.base/java.lang.Shutdown.exit(Shutdown.java:160)
+	at java.base/java.lang.Terminator$1.handle(Terminator.java:51)
+	at java.base/jdk.internal.misc.Signal$1.run(Signal.java:218)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+

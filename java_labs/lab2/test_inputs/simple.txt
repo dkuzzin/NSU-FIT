@@ -1,0 +1,26 @@
+# Simple arithmetic
+
+PUSH 5
+PUSH 2
++
+PRINT
+
+PUSH 10
+PUSH 3
+-
+PRINT
+
+PUSH 4
+PUSH 5
+*
+PRINT
+
+PUSH 20
+PUSH 4
+/
+PRINT
+
+#7.0
+#7.0
+#20.0
+#5.0

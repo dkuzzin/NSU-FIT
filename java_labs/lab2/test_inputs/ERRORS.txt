@@ -1,0 +1,33 @@
+# =========================
+# TEST: Error scenarios
+# =========================
+
+# 1. Not enough operands
++
+PRINT
+
+# 2. Only one operand for binary op
+PUSH 5
+*
+PRINT
+
+# 3. Division by zero
+PUSH 10
+PUSH 0
+/
+PRINT
+
+# 4. Unknown variable
+PUSH x
+PRINT
+
+# 5. Unknown command
+PUSH 5
+UNKNOWN_COMMAND
+PRINT
+
+# 6. Correct operation after errors (program must continue)
+PUSH 8
+PUSH 2
+/
+PRINT

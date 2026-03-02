@@ -1,0 +1,12 @@
+
+
++
+PRINT
+
+PUSH 5
++
+
+
+#Command ERROR. line #3 : There are too few items in the stack to perform the ADD operation.
+#Command ERROR. line #4 : Stack is empty
+#Command ERROR. line #7 : There are too few items in the stack to perform the ADD operation.
