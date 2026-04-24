@@ -1,0 +1,44 @@
+Lab 2.1
+
+
+gcc -Wall -Wextra -Werror -pedantic hello.c -o hello
+strace ./hello
+
+
+gcc -Wall -Wextra -Werror -pedantic hello1.c -o hello1
+strace ./hello1
+
+gcc -Wall -Wextra -Werror -pedantic hello2.c -o hello2
+strace ./hello2
+
+strace -c wget kernel.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+strace -c wget https://www.kernel.org
+

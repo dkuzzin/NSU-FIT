@@ -1,0 +1,5 @@
+gcc -Wall -Wextra -Werror -pedantic lab.c -o lab
+./lab test
+./lab tset dir
+
+diff -r test dir/test

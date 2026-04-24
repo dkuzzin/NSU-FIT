@@ -1,0 +1,5 @@
+gcc -Wall -Wextra -Werror -pedantic hello.c -o hello
+
+
+
+

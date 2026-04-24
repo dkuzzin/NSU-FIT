@@ -1,0 +1,17 @@
+gcc -Wall -Wextra -pedantic lab4.1.c -o lab
+./lab
+
+nm -S lab
+
+
+gcc -Wall -Wextra -pedantic task4.c -o task4
+./task4
+
+gcc -Wall -Wextra -pedantic task5.c -o task5
+./task5
+
+export MY_VAR="HELLO"
+echo $MY_VAR
+
+gcc -Wall -Wextra -pedantic task8.c -o task8
+./task8
