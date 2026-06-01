@@ -1,0 +1,6 @@
+gcc -Wall -Wextra -pedantic task1.c -o task1
+./task1
+
+
+gcc -Wall -Wextra -pedantic task6.c -o task6
+./task6
