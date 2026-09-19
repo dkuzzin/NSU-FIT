@@ -7,3 +7,9 @@
 [submodule "semester_4/java_labs/lab5-network-chat"]
 	path = semester_4/java_labs/lab5-network-chat
 	url = https://github.com/dkuzzin/NetworkChat.git
+[submodule "semester_2/huffman-archiver"]
+	path = semester_2/huffman-archiver
+	url = https://github.com/dkuzzin/huffman-archiver.git
+[submodule "semester_4/net_labs"]
+	path = semester_4/net_labs
+	url = https://github.com/dkuzzin/NET-labs
