@@ -1,0 +1,9 @@
+[submodule "semester_4/java_labs/lab3-tetris"]
+	path = semester_4/java_labs/lab3-tetris
+	url = https://github.com/dkuzzin/Tetris.git
+[submodule "semester_4/java_labs/lab4"]
+	path = semester_4/java_labs/lab4
+	url = https://github.com/dkuzzin/lab4_OOP.git
+[submodule "semester_4/java_labs/lab5-network-chat"]
+	path = semester_4/java_labs/lab5-network-chat
+	url = https://github.com/dkuzzin/NetworkChat.git
